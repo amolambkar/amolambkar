@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+a+Computer+Science+engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+a+Computer+Engineer" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/amol-ambkar-7aa611184/" target="_blank">
@@ -17,7 +17,7 @@
 
 - 👋 Hi, I’m Amol
 - 💼 I'm a Computer Engineer
-- 💬 Talk to me about Software Developement and Data Science
+- 💬 Talk to me about Software Development and Data Science
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
