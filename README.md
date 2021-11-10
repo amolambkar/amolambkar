@@ -50,7 +50,7 @@
   </a>
 
    <a href="https://golang.org/" target="_blank">
-    <img alt="Golang" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=GoLang&logoColor=white">
+    <img alt="Golang" src="https://img.shields.io/badge/Golang-F7931E?style=for-the-badge&logo=GoLang&logoColor=white">
   </a>
 
    <a href="https://redis.com/" target="_blank">
