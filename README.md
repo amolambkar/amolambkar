@@ -46,7 +46,7 @@
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/%20SQL%20-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 	
 <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=C-Programming&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-Programming-3776AB?style=for-the-badge&logo=C-Programming&logoColor=white">
   </a>
 
    <a href="https://golang.org/" target="_blank">
@@ -54,19 +54,19 @@
   </a>
 
    <a href="https://redis.com/" target="_blank">
-    <img alt="Redis" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=Redis&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-777BB4?style=for-the-badge&logo=Redis&logoColor=white">
   </a>
 
    <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-2C2D72?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   </a>
 
    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=HTML&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML&logoColor=white">
   </a>
 
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=CSS&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-2C2D72?style=for-the-badge&logo=CSS&logoColor=white">
   </a>
 
    <a href="https://opencv.org/" target="_blank">
