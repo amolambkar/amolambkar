@@ -105,14 +105,14 @@
 <!-- ## Popular Projects
 <a href="https://github.com/amolambkar/Digit-Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=amolambkar&repo=Digit-Recognition&theme=onedark" />
+<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=amolambkar&repo=Digit-Recognition&theme=onedark" />
 </a>  
 
 
-<a href="https://github.com/amolambkar/Telegram-Bot-Python">
+<a href="https://github.com/amolambkar/Telegram-Bot-Python"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=amolambkar&repo=Telegram-Bot-Python&theme=onedark" />
-</a>  -->
+<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=amolambkar&repo=Telegram-Bot-Python&theme=onedark" />
+</a>  --> -->
 
 ----------------------------------------------------------------------
 Credit: [amolambkar](https://github.com/amolambkar)
