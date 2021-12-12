@@ -83,7 +83,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Amol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amolambkar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/amolambkar/amolambkar"><img alt="Amol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amolambkar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amolambkar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="amolambkar" height="192px"/>
